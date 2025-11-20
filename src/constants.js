@@ -44,7 +44,7 @@ import Ms from './assets/education_logo/ms.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 
 // ⭐ FIXED LINE (the error one)
-import weatherAppLogo from './assets/work_logo/weather.jpg';
+import weatherAppLogo from './assets/work_logo/Weather.jpg';
 
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import airbnbYourHomeLogo from './assets/work_logo/airbnbYourHomeLogo.jpg';
